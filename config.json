@@ -1,0 +1,10 @@
+{
+  "days": 7,
+  "hl": "pt-BR",
+  "gl": "BR",
+  "ceid": "BR:pt-419",
+  "brands": [
+    {"name": "Serasa", "aliases": [], "exclude": [], "require": []}
+  ],
+  "feeds": []
+}
